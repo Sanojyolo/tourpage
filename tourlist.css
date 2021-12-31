@@ -1,0 +1,38 @@
+*{box-sizing: border-box;}
+
+img{width: 100%;}
+
+.clearfix{clear: both;}
+
+.container1-fluid{background-image: url("images/mountain1.jpg");
+                   background-size: cover;
+                     background-repeat: no-repeat;
+                    background-position: center;}
+
+  #column{background-color: rgb(191, 245, 191);}    
+  
+  .card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+  }
+
+  .container4-fluid{background-color: rgba(128, 128, 128, 0.815);}
+
+  .container{display: flex;
+               justify-content: space-between;}
+
+               .container6-fluid{display: flex; justify-content: space-around;}
+
+               .container7{background-color: rgba(97, 56, 9, 0.651);}     
+       
+       li{list-style: none; line-height:45px;}
+
+       .head{ color: rgb(11, 122, 11);}
+
+       .head5{ color: rgb(11, 122, 11);}
+
+       #pr1{color: white;}
+
+       #pr2{color: white; font-weight: lighter !important;}
+
+       .icon{color: white; font-size: xx-large;}

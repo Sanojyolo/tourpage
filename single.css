@@ -1,0 +1,26 @@
+*{box-sizing: border-box;}
+
+img{width: 100%;}
+
+.clearfix{clear: both;}
+
+.container1-fluid{
+         background-image: url("images/horse-riding-1.jpeg");
+         background-size: cover;
+    background-position: center center;
+    min-height: 60vh;
+}
+
+.container7{background-color: rgba(97, 56, 9, 0.651);}     
+       
+       li{list-style: none; line-height:45px;}
+
+       .head{ color: rgb(11, 122, 11);}
+
+       .head5{ color: rgb(11, 122, 11);}
+
+       #pr1{color: white;}
+
+       #pr2{color: white; font-weight: lighter !important;}
+
+       .icon{color: white; font-size: xx-large;}

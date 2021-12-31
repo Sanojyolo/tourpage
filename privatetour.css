@@ -1,0 +1,49 @@
+*{box-sizing: border-box;}
+
+img{width: 100%;}
+
+.clearfix{clear: both;}
+
+.container1-fluid{background-image: url("images/boating.jpg");
+    background-size: cover;
+    min-height: 60vh;
+    background-repeat: no-repeat;
+    background-position: top;}
+
+    #col1{background-color: rgb(71, 255, 47); }
+
+    #col2{background-color: rgb(3, 83, 3);}
+
+    .container3{background-color: black; height: 200px; opacity: 0.6;}
+  
+
+    .head{background-image: url("images/lake.jpg");
+        background-size: cover;
+        min-height: 60vh;
+        background-repeat: no-repeat;
+       background-position: center;}
+
+       .heading1{text-align: center; padding-top: 20px; color: white; font-weight: lighter;}
+
+
+       .container5-fluid{background-color: rgb(245, 241, 205);}
+
+       .container7{background-color: rgb(87, 167, 8);
+        padding:50px}
+
+        .par1, .par2{color:white}
+.container6{background-color: rgba(97, 56, 9, 0.651);}    
+
+.container11{background-color: rgba(97, 56, 9, 0.651);}     
+       
+       li{list-style: none; line-height:45px;}
+
+       .head8{ color: rgb(11, 122, 11);}
+
+       .head5{ color: rgb(11, 122, 11);}
+
+       #pr1{color: white;}
+
+       #pr2{color: white; font-weight: lighter !important;}
+
+       .icon{color: white; font-size: xx-large;}
